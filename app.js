@@ -280,9 +280,9 @@
       });
       var p = pool[0], alt = pool[1];
       q.querySelector(".q-out").innerHTML =
-        '<div class="q-res">' + (p.image ? '<img src="' + p.image + '" alt="">' : "") + '<div><span class="kick">Jouw beste keuze</span><h3 style="font-size:1.4rem">' + p.name + '</h3><p class="muted">' + p.oneliner + '</p><p><b style="font-family:Sora;font-size:1.3rem">€ ' + p.priceTxt + '</b> · score ' + p.score + '/10</p>' +
-        '<a class="btn btn-buy" href="' + p.link + '" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="keuzehulp-' + state.gids + '" data-umami-event-product="' + p.name + '">Bekijk bij bol <span class="arr">→</span></a> ' +
-        '<a class="btn btn-light" href="' + root + g.url + '">Hele top 10</a>' + (alt ? '<p class="muted" style="margin-top:12px;font-size:.9rem">Ook goed: <b>' + alt.name + '</b> voor € ' + alt.priceTxt + '</p>' : "") + "</div></div>";
+        '<div class="q-res">' + (p.image ? '<img src="' + p.image + '" alt="">' : "") + '<div><span class="kick">' + T.q_res + '</span><h3 style="font-size:1.4rem">' + p.name + '</h3><p class="muted">' + p.oneliner + '</p><p><b style="font-family:Sora;font-size:1.3rem">' + p.priceTxt + '</b> · ' + T.q_score + ' ' + p.scoreTxt + '/10</p>' +
+        '<a class="btn btn-buy" href="' + p.link + '" rel="sponsored nofollow noopener" target="_blank" data-umami-event="shop-klik" data-umami-event-gids="keuzehulp-' + state.gids + '" data-umami-event-product="' + p.name + '">' + T.q_btn + ' <span class="arr">→</span></a> ' +
+        '<a class="btn btn-light" href="' + root + g.url + '">' + T.q_full + '</a>' + (alt ? '<p class="muted" style="margin-top:12px;font-size:.9rem">' + T.q_also + ' <b>' + alt.name + '</b> · ' + alt.priceTxt + '</p>' : "") + "</div></div>";
     }
     show(0);
   }
