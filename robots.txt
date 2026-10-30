@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qualcompro.com/sitemap.xml
