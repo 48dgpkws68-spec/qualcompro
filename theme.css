@@ -33,6 +33,9 @@
 /* hero: alleen groentinten, geen warme vlekken */
 .theme-green .hero::before{background:linear-gradient(180deg,rgba(5,37,19,.45),rgba(5,37,19,.2) 60%,rgba(5,37,19,.5))}
 
+/* productfamilies (4 nov 2026): label van de familiebalk in de landskleur */
+.theme-green .clnav .cl-all{background:#0d5e30;border-color:#0d5e30}
+
 /* landensites: productplaatshouder zonder foto */
 .ph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;width:100%;height:100%;min-height:90px;background:linear-gradient(135deg,#f6f3ec,#fff)}.ph em{font-style:normal;font-family:Sora,sans-serif;font-weight:700;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;color:#0d5e30}.mq-ico{font-size:1.4rem;margin-right:6px}
 /* overzichtskaart: hele kaart klikbaar via titel, koopknop winnaar erboven */
