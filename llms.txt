@@ -2,6 +2,18 @@
 
 > Guias de compra top 10 independentes. Por tipo de produto, dez modelos comparados por características, preço e opiniões, com vantagens e desvantagens, guia de compra e perguntas frequentes. Os preços são preços de referência indicativos.
 
+O qualcompro é dirigido por Nick van Straaten, um editor independente sediado nos Países Baixos. Para cada tipo de produto comparamos modelos por características, preço e opiniões de compradores, e atualizamos um guia quando os preços mudam ou sai um modelo melhor. Não testamos os produtos num laboratório próprio. Os nossos guias são escritos com a ajuda de ferramentas de IA, com base em fichas técnicas, preços e opiniões de compradores; o Nick supervisiona o método e corrige os guias quando um leitor ou as nossas próprias verificações encontram um erro. Contacto: nick@4neon.nl
+
+## Páginas principais
+
+- [qualcompro](https://qualcompro.com/): Guias de compra top 10 independentes: as melhores televisões, robôs aspiradores, air fryers e muito mais de 2026. Comparados por preço, características e opiniões.
+- [Todos os guias](https://qualcompro.com/todos-os-guias.html): Visão geral de todos os guias de compra top 10 da qualcompro, com filtro por categoria.
+- [Como escolhemos](https://qualcompro.com/como-escolhemos.html): O nosso método: uma nota de 1 a 10 para desempenho, qualidade-preço, fiabilidade e facilidade de uso, com base em fichas técnicas, preços e opiniões.
+- [Sobre nós](https://qualcompro.com/sobre-nos.html): qualcompro publica guias de compra top 10 independentes, editados por Nick van Straaten a partir dos Países Baixos. As marcas não podem comprar um lugar.
+- [Prendas](https://qualcompro.com/prendas/): Ideias de prendas para 2026: o número 1 de cada um dos nossos tops 10, escolhido por características, preço e opiniões.
+- [Ajuda a escolher](https://qualcompro.com/ajuda-a-escolher.html): Responde a três perguntas e descobre que produto dos nossos tops 10 se adapta melhor ao teu orçamento e às tuas necessidades.
+- [Qualidade-preço](https://qualcompro.com/melhor-qualidade-preco.html): Para cada tipo de produto, o modelo com a melhor relação qualidade-preço dos nossos tops 10.
+
 ## Eletrodomésticos
 
 - [Os 10 melhores robôs aspiradores e lava-chão de 2026](https://qualcompro.com/melhores/melhores-robots-aspiradores-lava-chao.html): #1 Roborock Qrevo Curv 2 Pro
